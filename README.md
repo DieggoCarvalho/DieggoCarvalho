@@ -12,7 +12,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DieggoCarvalho&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
-### Algumas tecnologias que uso já trabalhei:
+### Algumas tecnologias que uso ou já trabalhei:
 
 <div style="display: inline-block"><br>
   <img align="center" alt="Dieggo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
