@@ -3,6 +3,7 @@
 
 - 🔭 Hoje trabalho com **Desenvolvimento de Software e Banco de Dados**
 - 🌱 Estudando **Laravel**
+- 🌱 Estudando **JavaScript**
 - 📫 Email para contato: dieggo.dev@outlook.com
 ##
 
