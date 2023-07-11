@@ -1,5 +1,8 @@
 <h1 align="center"> Oi, sou Dieggo Carvalho :coffee:<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> </h1>
 
+<div>
+  <img  align="right" alt="dieggo" width="250"  src="https://raw.githubusercontent.com/DieggoCarvalho/DieggoCarvalho/main/background.gif"/>
+  
 ###  💛 Developer :rocket: & Graphic Designer :art:
 
 - 🔭 :gem: Hoje trabalho com **Desenvolvimento de Software e Banco de Dados**
@@ -8,6 +11,7 @@
 - 📫 Email para contato: dieggo.dev@outlook.com
 ##
 
+</div>
 
 ### :trophy: Status
 <div align="center">
@@ -69,5 +73,7 @@
   <a href="https://wa.me/5575988494158" rel="nofollow" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&amp;logo=whatsapp&amp;logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/dieggo-carvalho" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/DieggoCarvalho/DieggoCarvalho/blob/output/github-contribution-grid-snake.svg)
 
 <h2> :brazil: 💛</h2>
