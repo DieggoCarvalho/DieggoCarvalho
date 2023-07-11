@@ -1,7 +1,7 @@
 <h1 align="center"> Oi, sou Dieggo Carvalho :coffee:<img  src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> </h1>
 
 <div>
-  <img  align="right" alt="dieggo" width="270"  src="https://raw.githubusercontent.com/DieggoCarvalho/DieggoCarvalho/main/background.gif"/>
+  <img  align="right" alt="dieggo" width="260"  src="https://raw.githubusercontent.com/DieggoCarvalho/DieggoCarvalho/main/background.gif"/>
   
 ###  💛 Developer :rocket: & Graphic Designer :art:
 
